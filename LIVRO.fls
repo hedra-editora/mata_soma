@@ -284,6 +284,12 @@ INPUT INPUTS.tex
 INPUT INPUTS.tex
 INPUT ORIGINAIS.tex
 INPUT ORIGINAIS.tex
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm

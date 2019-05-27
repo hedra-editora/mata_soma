@@ -24,13 +24,12 @@
 
 \makeatletter
 
-\def\footnoterule{\kern-8\p@
-    \hrule \@width 2in \kern 7.6\p@} % the \hrule is .4pt high
-
-%\renewcommand{\foottextfont}{\small}
-%\footmarkstyle{\normalfont{\raisebox{3pt}{\tiny#1}}}
-%\def\@makefnmark#1{{\tiny \raisebox{3pt}{\@thefnmark}}}
-\skip\footins=10mm\@plus3mm\@minus2mm
+\def\@xfootnote[#1]{%
+  \protected@xdef\@thefnmark{#1}%
+  \@footnotemark\@footnotetext}
+%\def\footnoterule{\kern-8\p@
+   %\hrule \@width 2in \kern 7.6\p@} % the \hrule is .4pt high
+\skip\footins=10mm\@plus3mm\@minus5mm
 \makeatother
 
 \makeatletter
