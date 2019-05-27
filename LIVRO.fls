@@ -156,8 +156,8 @@ INPUT /usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT /usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
-INPUT toc.sty
-INPUT toc.sty
+INPUT /home/editorial/texmf/tex/toc.sty
+INPUT /home/editorial/texmf/tex/toc.sty
 INPUT /usr/share/texmf-dist/tex/latex/titlesec/titletoc.sty
 INPUT /usr/share/texmf-dist/tex/latex/titlesec/titletoc.sty
 INPUT /usr/share/texmf-dist/tex/latex/relsize/relsize.sty

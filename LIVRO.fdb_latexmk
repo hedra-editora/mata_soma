@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1558977844 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1558977844
-  "LIVRO.xdv" 1558977844 1906788 74c212835eac2e56dffcef5761c1325c "xelatex"
+["xdvipdfmx"] 1558979194 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1558979194
+  "LIVRO.xdv" 1558979193 1899484 157a8479951a1535de19d120e9ffc634 "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1558977841 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1558977844
+["xelatex"] 1558979191 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1558979194
   "/home/editorial/texmf/tex/aparatos.sty" 1496083773 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/frontlayout.sty" 1522961913 1454 12134bf9b3d761fd4c3d46f05ff90c4c ""
   "/home/editorial/texmf/tex/graficos.sty" 1496083774 5068 7d4601d85de608fb3bf9e0186715447a ""
@@ -12,6 +12,7 @@
   "/home/editorial/texmf/tex/listingx.sty" 1496083774 382 5ac89aff81857e4e7a0225a4eae88d32 ""
   "/home/editorial/texmf/tex/penalidades.sty" 1496083774 5285 18e80aeaf88f978c2e3015ab1691a5e2 ""
   "/home/editorial/texmf/tex/tabelas.sty" 1496083774 766 c86a62785f03c41dd28e2c670ec200e6 ""
+  "/home/editorial/texmf/tex/toc.sty" 1513785845 3584 8a6cd48c4fd761cc0f8988b9f7ec2521 ""
   "/home/editorial/texmf/tex/versos.sty" 1496083774 697 398eb9c22d48d4eafb5f278b5b7628be ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1501615455 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1501615459 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -145,24 +146,23 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1501615481 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1509478212 4066395 6b322c5d2cda5c7d3fa6f2e6378d2f25 ""
   "CIRCUITO.jpg" 1558976900 185488 00e49767905e0d07d9e5eb5b20156085 ""
-  "INPUTS.aux" 1558977844 4215 b4f39313692c45c9f18d868ddf01d0e8 ""
+  "INPUTS.aux" 1558979193 3797 340bc52fd235e27f6eb7d8db337aca09 ""
   "INPUTS.tex" 1558977042 90 f718c76d4a785500f401f76cdba57cd5 ""
-  "LIVRO.aux" 1558977844 476 8f300bdbcad9d1990b8140dc1268f8e1 ""
-  "LIVRO.tex" 1558976900 2143 c6c7445dd89b25403f26cb2c0aeecab5 ""
-  "LIVRO.toc" 1558977844 1720 be70a9c68c35bf7947829f69e65e4270 ""
-  "ORIGINAIS.tex" 1558977836 176442 4bdf72e9a4b73930a46ca4414a2a4345 ""
+  "LIVRO.aux" 1558979193 476 8f300bdbcad9d1990b8140dc1268f8e1 ""
+  "LIVRO.tex" 1558978286 2143 c6c7445dd89b25403f26cb2c0aeecab5 ""
+  "LIVRO.toc" 1558979193 1662 51d570bf9521e480bdd6f40a65954d4e ""
+  "ORIGINAIS.tex" 1558979184 176740 6838e5d635aa53d96c18d4216ffbeb9e ""
   "PRETAS.tex" 1558977381 1187 aa4e8ecef5ae70c07abf8edbedb6b937 ""
   "fichatecnica.sty" 1558977770 2212 1f78fca06c2487761436fb3155b6f900 ""
   "fronthedra.tex" 1558977707 5116 97343b4d7a784818278a2606f591297d ""
-  "gitrevisioninfo.sty" 1558977837 35 03d38b76631a2c8f80e473affcc8805c ""
+  "gitrevisioninfo.sty" 1558979187 35 106a6d771943c99646b7d71d841b8823 ""
   "hedraextra.sty" 1558976900 6390 65a9b8588c7612c4e2512564697fa8c1 ""
   "hedraoptions.sty" 1558976900 3612 90c10c03eba9d99333f661bc5b2a212a ""
   "hedrastyles.sty" 1558976900 8864 1415f68b03c9b11306f4e19140afce23 ""
   "tipografia.sty" 1558976900 9859 f06ffe5c85c5828660a90c61e735ed72 ""
-  "toc.sty" 1558976900 3535 ba3315dd63503c85c868efae07b02015 ""
   (generated)
-  "LIVRO.aux"
-  "INPUTS.aux"
   "LIVRO.log"
   "LIVRO.xdv"
+  "LIVRO.aux"
+  "INPUTS.aux"
   "LIVRO.toc"
