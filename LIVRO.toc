@@ -11,7 +11,7 @@
 \contentsline {section}{A psicologia política e corporal de Wilhelm Reich}{33}
 \contentsline {section}{O aqui-e-agora da Gestalt-terapia}{40}
 \contentsline {section}{Antipsiquiatria e a gramática da loucura}{46}
-\contentsline {section}{Por uma psicologia da autonomia}{53}
+\contentsline {section}{Por uma psicologia da autonomia}{54}
 \contentsline {chapter}{III. A metodologia da Soma}{61}
 \contentsline {section}{A formação de um grupo de Soma}{61}
 \contentsline {section}{As sessões de terapia}{62}
