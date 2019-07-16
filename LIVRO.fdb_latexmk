@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1563197384 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1563197390
+["lualatex"] 1563280010 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1563280016
   "/etc/texmf/tex/generic/config/language.dat" 1510784374 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1556209800 330551 d12977d7bdbdf3a8c84dfb9092c3ccea ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1556209801 287951 05a753757cb80cdd1665c6086d8a0543 ""
@@ -228,12 +228,12 @@
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1510784348 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1516130248 1350732 045cf0d50c464bdae2d15bcdf369a573 ""
   "CIRCUITO.jpg" 1563191530 185488 00e49767905e0d07d9e5eb5b20156085 ""
-  "INPUTS.aux" 1563197389 4317 81f0e380422616e47d2c8006ec19d260 ""
+  "INPUTS.aux" 1563280015 4317 5e7d16cb3b2e25f1fb5bddfac8bc21a8 ""
   "INPUTS.tex" 1563191530 90 f718c76d4a785500f401f76cdba57cd5 ""
-  "LIVRO.aux" 1563197389 515 aecd232dc3f895554600a442d419040d ""
+  "LIVRO.aux" 1563280016 515 aecd232dc3f895554600a442d419040d ""
   "LIVRO.tex" 1563191530 2082 84de83083d4a7111be6dcceaff9dedd1 ""
-  "LIVRO.toc" 1563197389 2106 db2d4d025c3a7fc218d5ffb37c5f66df ""
-  "ORIGINAIS.tex" 1563197379 177206 c757cc5643449dc9a197aa17328669ce ""
+  "LIVRO.toc" 1563280016 2106 c462308c77472ad1fb5141a4da6c5a60 ""
+  "ORIGINAIS.tex" 1563280009 177177 eb5bf4f0b14b6f1acf73a8b80801ec36 ""
   "PRETAS.tex" 1563191530 1251 f8a2e2956fed34041912bb9995dacb88 ""
   "fichatecnica.sty" 1563191530 2212 1f78fca06c2487761436fb3155b6f900 ""
   "fronthedra.tex" 1563191530 5116 97343b4d7a784818278a2606f591297d ""
@@ -243,8 +243,8 @@
   "hedrastyles.sty" 1563191530 8864 1415f68b03c9b11306f4e19140afce23 ""
   "tipografia.sty" 1563192142 9907 baf9582d169519b5dcad3d86821ad837 ""
   (generated)
+  "INPUTS.aux"
+  "LIVRO.toc"
+  "LIVRO.aux"
   "LIVRO.log"
   "LIVRO.pdf"
-  "INPUTS.aux"
-  "LIVRO.aux"
-  "LIVRO.toc"
