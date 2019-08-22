@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1566500917 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1566500922
+["lualatex"] 1566509983 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1566509989
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1556048766 330551 de924542c69363b693a5e39e6b2aba98 ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1556048766 287951 a70546de2b03d7b06e7bdf50996f9bc7 ""
@@ -231,12 +231,12 @@
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1509478218 1350509 fd6a6094b87503d3862a692ec974558b ""
   "CIRCUITO.jpg" 1558976900 185488 00e49767905e0d07d9e5eb5b20156085 ""
-  "INPUTS.aux" 1566500922 4285 0e28646f38b43d6284be7c3a46353b19 ""
+  "INPUTS.aux" 1566509989 4285 0e28646f38b43d6284be7c3a46353b19 ""
   "INPUTS.tex" 1558977042 90 f718c76d4a785500f401f76cdba57cd5 ""
-  "LIVRO.aux" 1566500922 515 aecd232dc3f895554600a442d419040d ""
+  "LIVRO.aux" 1566509989 515 aecd232dc3f895554600a442d419040d ""
   "LIVRO.tex" 1558981236 2082 84de83083d4a7111be6dcceaff9dedd1 ""
-  "LIVRO.toc" 1566500922 2106 c462308c77472ad1fb5141a4da6c5a60 ""
-  "ORIGINAIS.tex" 1566500914 177168 0b65f9c6df328aab1844b16adf7c9259 ""
+  "LIVRO.toc" 1566509989 2106 c462308c77472ad1fb5141a4da6c5a60 ""
+  "ORIGINAIS.tex" 1566509981 177264 2d2d2140a2353ad0df9f9077a8ef9d7a ""
   "PRETAS.tex" 1558980747 1251 f8a2e2956fed34041912bb9995dacb88 ""
   "fichatecnica.sty" 1558977770 2212 1f78fca06c2487761436fb3155b6f900 ""
   "fronthedra.tex" 1558977707 5116 97343b4d7a784818278a2606f591297d ""
@@ -247,7 +247,7 @@
   "tipografia.sty" 1566488075 9907 baf9582d169519b5dcad3d86821ad837 ""
   (generated)
   "LIVRO.aux"
-  "LIVRO.toc"
-  "LIVRO.pdf"
-  "LIVRO.log"
   "INPUTS.aux"
+  "LIVRO.log"
+  "LIVRO.pdf"
+  "LIVRO.toc"

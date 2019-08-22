@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  22 AUG 2019 16:08
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  22 AUG 2019 18:39
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.233 seconds
+luaotfload | main : initialization completed in 0.298 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1770,10 +1770,10 @@ Here is how much of LuaTeX's memory you used:
  1241 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 6 glue, 1 penalty, 32 attribute, 195 glue_spec, 8 a
 ttribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:2139,3:132,4:54,5:274,6:3000,7:837,8:110,9:251,10:25,11:44
+   avail lists: 1:2,2:2139,3:132,4:54,5:274,6:3000,7:842,8:110,9:251,10:25,11:44
 2
  27189 multiletter control sequences out of 65536+600000
- 99 fonts using 19831743 bytes
+ 99 fonts using 19831807 bytes
  50i,12n,70p,1356b,347s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist
@@ -1783,7 +1783,7 @@ type/public/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/arkandis/a
 dforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
 
-Output written on LIVRO.pdf (106 pages, 520544 bytes).
+Output written on LIVRO.pdf (106 pages, 520477 bytes).
 
 PDF statistics: 380 PDF objects out of 1000 (max. 8388607)
  253 compressed objects within 3 object streams
