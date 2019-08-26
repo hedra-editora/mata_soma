@@ -19,10 +19,10 @@
 \contentsline {section}{As cadeiras quentes e o encerramento do processo}{70}
 \contentsline {section}{Desenvolvimento do Processo Terapêutico}{72}
 \contentsline {section}{A arte-luta da capoeira angola}{76}
-\contentsline {chapter}{IV. Considerações sobre uma psicologia libertária}{83}
-\contentsline {section}{O anarquismo somático e a terapia}{85}
-\contentsline {section}{Erotismo, sensualidade e sexualidade como~potências~da~vida}{90}
-\contentsline {section}{Por uma erótica solar}{93}
-\contentsline {section}{O intolerável e a vida livre}{97}
-\contentsline {chapter}{Nota}{103}
+\contentsline {chapter}{IV. Considerações sobre uma psicologia libertária}{81}
+\contentsline {section}{O anarquismo somático e a terapia}{83}
+\contentsline {section}{Erotismo, sensualidade e sexualidade como~potências~da~vida}{88}
+\contentsline {section}{Por uma erótica solar}{91}
+\contentsline {section}{O intolerável e a vida livre}{95}
+\contentsline {chapter}{Nota}{101}
 \contentsfinish 

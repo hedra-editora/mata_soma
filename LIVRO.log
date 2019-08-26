@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  22 AUG 2019 18:39
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  26 AUG 2019 16:00
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.298 seconds
+luaotfload | main : initialization completed in 0.236 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1743,22 +1743,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [60
 
 ] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74]
-[75] [76] [77] [78] [79] [80] [81] [82
+[75] [76] [77] [78] [79] [80] [81
 
-] [83] [84] [85] [86] [87] [88] [89]
-[90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103
+] [82] [83] [84] [85] [86] [87] [88] [89]
+[90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100
 
-]))
-[104] 
+] [101])) [102]
+
 AED: lastpage setting LastPage
-[105
+[103
 
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 82.
 (load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmm
-ono9-regular.luc) [106]
+ono9-regular.luc) [104]
 \tf@toc=\write5
 
 \openout5 = LIVRO.toc
@@ -1773,7 +1773,7 @@ ttribute_list, 3 shape, 2 write nodes
    avail lists: 1:2,2:2139,3:132,4:54,5:274,6:3000,7:842,8:110,9:251,10:25,11:44
 2
  27189 multiletter control sequences out of 65536+600000
- 99 fonts using 19831807 bytes
+ 99 fonts using 19831679 bytes
  50i,12n,70p,1356b,347s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist
@@ -1783,10 +1783,10 @@ type/public/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/arkandis/a
 dforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
 
-Output written on LIVRO.pdf (106 pages, 520477 bytes).
+Output written on LIVRO.pdf (104 pages, 518902 bytes).
 
-PDF statistics: 380 PDF objects out of 1000 (max. 8388607)
- 253 compressed objects within 3 object streams
+PDF statistics: 374 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
