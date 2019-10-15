@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1569962822 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1569962828
+["lualatex"] 1571163999 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1571164004
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1556048766 330551 de924542c69363b693a5e39e6b2aba98 ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1556048766 287951 a70546de2b03d7b06e7bdf50996f9bc7 ""
@@ -231,13 +231,13 @@
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1509478218 1350509 fd6a6094b87503d3862a692ec974558b ""
   "CIRCUITO.jpg" 1558976900 185488 00e49767905e0d07d9e5eb5b20156085 ""
-  "INPUTS.aux" 1569962827 4557 336061cb7297477d2360849d72a45114 ""
+  "INPUTS.aux" 1571164004 4557 a88c4249d0faf8ef851537f897a209a0 ""
   "INPUTS.tex" 1558977042 90 f718c76d4a785500f401f76cdba57cd5 ""
-  "LIVRO.aux" 1569962827 515 6046a55a98534450f7a7ea9475bbb3a3 ""
+  "LIVRO.aux" 1571164004 515 aecd232dc3f895554600a442d419040d ""
   "LIVRO.tex" 1558981236 2082 84de83083d4a7111be6dcceaff9dedd1 ""
-  "LIVRO.toc" 1569962827 2090 d443fa16ce94a4ad2db87a2f87f1e6ac ""
-  "ORIGINAIS.tex" 1569962809 179460 2c3e15b37023fcac75f2226340251fca ""
-  "PRETAS.tex" 1558980747 1251 f8a2e2956fed34041912bb9995dacb88 ""
+  "LIVRO.toc" 1571164004 2090 d792676f91bbab9d343af7deb1b5c3fd ""
+  "ORIGINAIS.tex" 1571163968 181499 2ebbd6c98faeadac89b323cf0c91c35e ""
+  "PRETAS.tex" 1571162561 2191 ed03f018392cbf751294d2201e700731 ""
   "fichatecnica.sty" 1558977770 2212 1f78fca06c2487761436fb3155b6f900 ""
   "fronthedra.tex" 1558977707 5116 97343b4d7a784818278a2606f591297d ""
   "gitrevisioninfo.sty" 1566488075 35 ed5e95f7cfbdcef7566b00502d87bd4d ""
@@ -246,8 +246,8 @@
   "hedrastyles.sty" 1558976900 8864 1415f68b03c9b11306f4e19140afce23 ""
   "tipografia.sty" 1566488075 9907 baf9582d169519b5dcad3d86821ad837 ""
   (generated)
-  "LIVRO.pdf"
   "LIVRO.toc"
+  "LIVRO.log"
+  "LIVRO.pdf"
   "INPUTS.aux"
   "LIVRO.aux"
-  "LIVRO.log"

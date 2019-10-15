@@ -24,5 +24,5 @@
 \contentsline {section}{Erotismo, sensualidade e sexualidade como~potências~da~vida}{88}
 \contentsline {section}{Por uma erótica solar}{91}
 \contentsline {section}{O intolerável e a vida livre}{95}
-\contentsline {chapter}{Nota}{101}
+\contentsline {chapter}{Nota}{103}
 \contentsfinish 
