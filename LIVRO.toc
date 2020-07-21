@@ -1,9 +1,9 @@
 \babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Apresentação, \emph {por Edson Passetti}}{9}
+\contentsline {chapter}{Apresentação, \emph {por Edson Passetti} \vspace \medskipamount }{9}
 \contentsline {chapter}{Conceitos básicos da Soma}{13}
-\contentsline {section}{Definição da palavra \textsc {\MakeTextLowercase {SOMA}}}{13}
-\contentsline {section}{A auto-regulação organísmica}{17}
+\contentsline {section}{Definição da palavra Soma}{13}
+\contentsline {section}{A autorregulação organísmica}{17}
 \contentsline {section}{A originalidade única do ser}{21}
 \contentsline {section}{A política do cotidiano}{25}
 \contentsline {section}{A relação agressividade x violência}{27}
