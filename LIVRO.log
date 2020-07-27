@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  21 JUL 2020 14:42
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  27 JUL 2020 13:39
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.102 seconds
+luaotfload | main : initialization completed in 0.114 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1719,17 +1719,17 @@ RS)
 ) [2
 
 ]
-<./logo_hedra.jpg, id=14, 1113.15875pt x 347.2975pt>
-File: ./logo_hedra.jpg Graphic file (type jpg)
-<use ./logo_hedra.jpg>
-Package luatex.def Info: ./logo_hedra.jpg  used on input line 80.
-(luatex.def)             Requested size: 56.9055pt x 17.75273pt.
+<./logo_hedra.png, id=14, 853.5087pt x 284.5029pt>
+File: ./logo_hedra.png Graphic file (type png)
+<use ./logo_hedra.png>
+Package luatex.def Info: ./logo_hedra.png  used on input line 80.
+(luatex.def)             Requested size: 56.9055pt x 18.96652pt.
 <CIRCUITO.jpg, id=15, 846.91406pt x 401.43727pt>
 File: CIRCUITO.jpg Graphic file (type jpg)
 <use CIRCUITO.jpg>
 Package luatex.def Info: CIRCUITO.jpg  used on input line 80.
 (luatex.def)             Requested size: 56.9055pt x 26.97026pt.
- [3<./logo_hedra.jpg><./CIRCUITO.jpg>] (./PRETAS.tex
+ [3<./logo_hedra.png><./CIRCUITO.jpg>] (./PRETAS.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 ) [4
@@ -1790,7 +1790,7 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:3,2:800,3:135,4:57,5:270,6:1333,7:855,8:106,9:238,10:28,11:398
 
  27557 multiletter control sequences out of 65536+600000
- 98 fonts using 20195831 bytes
+ 98 fonts using 20195895 bytes
  50i,14n,85p,1356b,401s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/
@@ -1799,9 +1799,9 @@ r/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf><
 /usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (106 pages, 865164 bytes).
+Output written on LIVRO.pdf (106 pages, 881245 bytes).
 
-PDF statistics: 375 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 376 PDF objects out of 1000 (max. 8388607)
  249 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
